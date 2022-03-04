@@ -1,0 +1,15 @@
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\bin\Debug\net6.0\MinotaurVase.exe
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\bin\Debug\net6.0\MinotaurVase.deps.json
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\bin\Debug\net6.0\MinotaurVase.runtimeconfig.json
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\bin\Debug\net6.0\MinotaurVase.dll
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\bin\Debug\net6.0\ref\MinotaurVase.dll
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\bin\Debug\net6.0\MinotaurVase.pdb
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\obj\Debug\net6.0\MinotaurVase.csproj.AssemblyReference.cache
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\obj\Debug\net6.0\MinotaurVase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\obj\Debug\net6.0\MinotaurVase.AssemblyInfoInputs.cache
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\obj\Debug\net6.0\MinotaurVase.AssemblyInfo.cs
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\obj\Debug\net6.0\MinotaurVase.csproj.CoreCompileInputs.cache
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\obj\Debug\net6.0\MinotaurVase.dll
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\obj\Debug\net6.0\ref\MinotaurVase.dll
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\obj\Debug\net6.0\MinotaurVase.pdb
+C:\Users\Silent\Desktop\!Stuff\School\2022\Parallel\MinoVase\MinotaurVase\MinotaurVase\obj\Debug\net6.0\MinotaurVase.genruntimeconfig.cache

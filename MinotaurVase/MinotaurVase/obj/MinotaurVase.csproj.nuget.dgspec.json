@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Silen\\Desktop\\MinoVase\\MinotaurVase\\MinotaurVase\\MinotaurVase.csproj": {}
+    "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoVase\\MinotaurVase\\MinotaurVase\\MinotaurVase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Silen\\Desktop\\MinoVase\\MinotaurVase\\MinotaurVase\\MinotaurVase.csproj": {
+    "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoVase\\MinotaurVase\\MinotaurVase\\MinotaurVase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Silen\\Desktop\\MinoVase\\MinotaurVase\\MinotaurVase\\MinotaurVase.csproj",
+        "projectUniqueName": "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoVase\\MinotaurVase\\MinotaurVase\\MinotaurVase.csproj",
         "projectName": "MinotaurVase",
-        "projectPath": "C:\\Users\\Silen\\Desktop\\MinoVase\\MinotaurVase\\MinotaurVase\\MinotaurVase.csproj",
-        "packagesPath": "C:\\Users\\Silen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Silen\\Desktop\\MinoVase\\MinotaurVase\\MinotaurVase\\obj\\",
+        "projectPath": "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoVase\\MinotaurVase\\MinotaurVase\\MinotaurVase.csproj",
+        "packagesPath": "C:\\Users\\Silent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Silent\\Desktop\\!Stuff\\School\\2022\\Parallel\\MinoVase\\MinotaurVase\\MinotaurVase\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Silen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Silent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
